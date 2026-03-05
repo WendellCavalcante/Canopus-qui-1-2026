@@ -1,9 +1,7 @@
 🧠 **BRIEFING**
 
-**1. Informações gerais**
-
-1.1 Nome do sistema: Cash Alert
-
+**1. Informações gerais** <br>
+1.1 Nome do sistema: Cash Alert <br>
 1.2 Nome da equipe: Canopus
  <br> <br>
 **2. Problema e/ou necessidade**
@@ -64,6 +62,7 @@ Conformidade e governança de dados: classificar dados (pessoal/sensível), pol�
 **5. Usuários**
 
 Usuário final: pessoa física interessada em organizar e controlar suas finanças pessoais por meio do registro de receitas e despesas.
+
  <br> <br>
 **6. Entregáveis**
 
