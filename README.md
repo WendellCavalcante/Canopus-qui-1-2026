@@ -1,4 +1,4 @@
-# 📘 Projeto de Sistema Computacional - " digite aqui o nome do seu sistema "
+# 📘 Projeto de Sistema Computacional - "Cash Alert"
 <img width="192" height="89" alt="image" src="https://github.com/user-attachments/assets/9f00c432-def4-4de7-8b12-439b34ca8b9c" />
 
 Curso: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas
@@ -7,9 +7,14 @@ Disciplina: Análise e Projeto de Sistemas
 
 Orientador: Prof. Me. Denys Alves da Silva
 
-Nome do grupo: 
+Nome do grupo: Canopus
 
-Alunos: RA Nome completo e-mail sempreceub
+Alunos: 
+22511591 Heber Américo Macedo - heber.macedo@sempreceub.com
+22510876 Maria Clara Bertin Vieira Ferreira - bertinmaria@sempreceub.com
+22511112 Marco Antônio de Melo Peixoto - marcoamp@sempreceub.com
+22504972 Thaynara Lima Soares Sousa - thaynara.ls@sempreceub.com
+22510078 Wendel Nascimento Cavalcante - wendel.nc@sempreceub.com
 
 
 ---
